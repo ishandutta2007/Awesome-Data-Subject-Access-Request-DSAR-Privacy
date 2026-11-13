@@ -78,9 +78,9 @@ Below is an overview of commercial SaaS platforms providing automated DSAR orche
 
 Curated self-hosted software and developer libraries for handling data subject requests, managing PII vaults, tracking regulatory deadlines, and implementing consent banners.
 
-*Sorted in descending order by GitHub Stars.*
+*Sorted in descending order by GitHub_Stars.*
 
-| Project | Star Badge | Description | License |
+| Project | Stars_Badge | Description | License |
 |---|---|---|---|
 | **[c15t](https://github.com/c15t/c15t)** | [![Stars](https://img.shields.io/github/stars/c15t/c15t?style=social&color=white)](https://github.com/c15t/c15t/stargazers) | Open-source cookie consent manager and GDPR cookie banner for React, Next.js, Vue, and vanilla JavaScript. Full support for Google Consent Mode v2 and IAB TCF frameworks. | MIT |
 | **[DataBunker](https://github.com/securitybunker/databunker)** | [![Stars](https://img.shields.io/github/stars/securitybunker/databunker?style=social&color=white)](https://github.com/securitybunker/databunker/stargazers) | Secure, developer-friendly vault for customer PII/PHI/KYC records built for GDPR compliance. Features built-in user identity tokenization, access logs, and an API for DSAR personal data lookup and erasure. | Apache-2.0 |
@@ -101,7 +101,7 @@ Contributions are warmly welcomed! Help build the most accurate and up-to-date g
 2. 🌿 Create a feature branch: `git checkout -b feature/add-privacy-tool`
 3. ✏️ Add your project or update existing details in [README.md](file:///C:/Users/ishan/Documents/Projects/Awesome-Data-Subject-Access-Request-DSAR-Privacy/README.md).
    - Ensure SaaS entries follow the pricing format with transparent starting costs and explicit trial limits.
-   - For open-source projects, include the official GitHub star badge linking to the stargazers page.
+   - For open-source projects, include the official GitHub Stars_Badge linking to the stargazers page.
 4. 🚀 Commit your changes: `git commit -m "Add [Tool Name] to DSAR ecosystem"`
 5. 📬 Push to your branch and open a **Pull Request**.
 
