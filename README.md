@@ -1,6 +1,6 @@
 # Awesome-Data-Subject-Access-Request-DSAR-Privacy
 
-# Top Data Subject Access Request (DSAR) & Privacy Ecosystem
+## Top Data Subject Access Request (DSAR) & Privacy Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on DSAR Automation, Privacy Request Orchestration & GDPR Compliance Workflows*  
